@@ -6,7 +6,15 @@
 
 ## Hi! I'm Kijun Kwon.
 - Undergraduate student at Computer Science and Engineering, Konkuk University
-- NLP Engineer Intern of TUNiB
+- NLP Engineer Intern of <a href="https://tunib.ai" target="_blank">TUNiB</a>
+
+## My award history is...
+🥇 2022 인공지능 온라인 경진대회 자연어처리 부문 최우수상 (과학기술정보통신부장관상)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 TUNiB - 문서 검색 효율화를 위한 기계독해 문제 1위
+<br/>🥉 SW중심대학 공동해커톤 2022 <a href="http://www.konkuk.ac.kr/do/MessageBoard/ArticleRead.do?forum=people&s_f=subject&s_v=SW&sort=6&id=5b4cbcc" target="_blank">한국소프트웨어산업협회장상</a>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 법법디라라 - 법률 상담 챗봇 로캣(LawCat)
+<br/>🥈 2022 건국대학교 공과대학 동아리 비빔밥 해커톤 <빔커톤> 최우수상
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;신조어 번역 서비스 별다줄 with <a href="https://github.com/janghoosa" target="_blank">Taejun Jang</a>
 
 ## You can check my detailed profile here.
 <div align="center">
