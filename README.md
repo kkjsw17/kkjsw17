@@ -21,6 +21,10 @@
 <br/>🥈 2022 건국대학교 공과대학 동아리 비빔밥 해커톤 <빔커톤> 최우수상
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;신조어 번역 서비스 별다줄 with <a href="https://github.com/janghoosa" target="_blank">Taejun Jang</a>
 
+## If you want to contact me...
+- <a href="mailto:uikon798@gmail.com">Gmail</a>
+- <a href="mailto:kkjsw17@naver.com">Naver Mail</a>
+
 ## You can check my detailed profile here.
 <div align="center">
   <a href="https://kaput-kite-949.notion.site/Kijun-Kwon-b334df61bf7b435782dee4b49a242939">
