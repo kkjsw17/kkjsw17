@@ -8,7 +8,7 @@
 - Undergraduate student at Computer Science and Engineering, Konkuk University
 - NLP Engineer Intern of <a href="https://tunib.ai" target="_blank">TUNiB</a>
 
-## What I'm learning is...
+## What I'm studying is...
 - GPGPU Programming with <b>CUDA C</b>
 - Building MLOps Pipeline using <b>Airflow</b>, etc
 - Inference Optimization/Acceleration using <b>ONNX, TensorRT, FasterTransformers</b>, etc
