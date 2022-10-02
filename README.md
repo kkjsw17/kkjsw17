@@ -8,6 +8,11 @@
 - Undergraduate student at Computer Science and Engineering, Konkuk University
 - NLP Engineer Intern of <a href="https://tunib.ai" target="_blank">TUNiB</a>
 
+## What I'm learning is...
+- GPGPU Programming with <b>CUDA C</b>
+- Building MLOps Pipeline using <b>Airflow</b>, etc
+- Inference Optimization/Acceleration using <b>ONNX, TensorRT, FasterTransformers</b>, etc
+
 ## My award history is...
 🥇 2022 인공지능 온라인 경진대회 자연어처리 부문 최우수상 (과학기술정보통신부장관상)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 TUNiB - 문서 검색 효율화를 위한 기계독해 문제 1위
