@@ -11,7 +11,7 @@
 ## What I'm studying is...
 - GPGPU Programming with <b>CUDA C</b>
 - Building MLOps Pipeline using <b>Airflow</b>, etc
-- Inference Optimization/Acceleration using <b>ONNX, TensorRT, FasterTransformers</b>, etc
+- Inference Optimization/Acceleration using <b>ONNX, TensorRT, FasterTransformer</b>, etc
 
 ## My award history is...
 🥇 2022 인공지능 온라인 경진대회 자연어처리 부문 최우수상 (과학기술정보통신부장관상)
