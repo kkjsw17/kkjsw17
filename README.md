@@ -10,7 +10,7 @@
 
 ## What I'm studying is...
 - GPGPU Programming with <b>CUDA C</b>
-- Building MLOps Pipeline using <b>Airflow</b>, etc
+- Building MLOps Pipeline using <b>Airflow</b>, <b>Kubernetes</b>, etc
 - Inference Optimization/Acceleration using <b>ONNX, TensorRT, FasterTransformer</b>, etc
 
 ## My award history is...
