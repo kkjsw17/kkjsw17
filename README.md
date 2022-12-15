@@ -6,7 +6,7 @@
 
 ## Hi! I'm Kijun Kwon.
 - Undergraduate student at Computer Science and Engineering, Konkuk University
-- ML Engineer Intern of <a href="https://tunib.ai" target="_blank">TUNiB</a>
+- ML Engineer and Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
 
 ## What I'm studying is...
 - GPGPU Programming with <b>CUDA C</b>
