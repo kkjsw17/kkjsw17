@@ -5,13 +5,13 @@
 </div>
 
 ## Hi! I'm Kijun Kwon.
-- Undergraduate student at Computer Science and Engineering, Konkuk University
-- ML Engineer and Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
+- Bachelor of Science in Computer Science and Engineering, Konkuk University
+- ML and Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
 
 ## What I'm studying is...
-- GPGPU Programming with <b>CUDA C</b>
-- Building MLOps Pipeline using <b>Airflow</b>, <b>Kubernetes</b>, etc
-- Inference Optimization/Acceleration using <b>ONNX, TensorRT, FasterTransformer</b>, etc
+- Building MLOps Pipeline using <b>Airflow</b>, <b>Kubeflow</b>, etc
+- Building Python-based Servers Using FastAPI, SQL Alchemy, etc.
+- Building a reliable infrastructure using eks, ecs, etc.
 
 ## My award history is...
 🥇 2022 인공지능 온라인 경진대회 자연어처리 부문 최우수상 (과학기술정보통신부장관상) - <a href="https://www.youtube.com/watch?v=jYmUxs4vfKs">관련 링크</a>
