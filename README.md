@@ -9,9 +9,10 @@
 - ML and Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
 
 ## What I'm studying is...
+- <b>Spring</b> based Web Server Construction
 - Building MLOps Pipeline using <b>Airflow</b>, <b>Kubeflow</b>, etc
-- Building Python-based Servers Using FastAPI, SQL Alchemy, etc.
-- Building a reliable infrastructure using eks, ecs, etc.
+- Building Python-based Servers Using <b>FastAPI</b>, <b>SQL Alchemy</b>, etc.
+- Building a reliable infrastructure using <b>eks</b>, <b>ecs</b>, etc.
 
 ## My award history is...
 🥇 2022 인공지능 온라인 경진대회 자연어처리 부문 최우수상 (과학기술정보통신부장관상) - <a href="https://www.youtube.com/watch?v=jYmUxs4vfKs">관련 링크</a>
@@ -27,12 +28,12 @@
 - <a href="mailto:uikon798@gmail.com">Gmail</a>
 - <a href="mailto:kkjsw17@naver.com">Naver Mail</a>
 
-## You can check my detailed profile here.
+<!-- ## You can check my detailed profile here.
 <div align="center">
   <a href="https://kaput-kite-949.notion.site/Kijun-Kwon-b334df61bf7b435782dee4b49a242939">
     <img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
-</div>
+</div> -->
 
 <!--
 **kkjsw17/kkjsw17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
