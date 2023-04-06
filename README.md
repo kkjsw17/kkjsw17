@@ -6,11 +6,10 @@
 
 ## Hi! I'm Kijun Kwon.
 - Bachelor of Science in Computer Science and Engineering, Konkuk University
-- ML and Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
+- Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
 
 ## What I'm studying is...
 - <b>Spring</b> based Web Server Construction
-- Building MLOps Pipeline using <b>Airflow</b>, <b>Kubeflow</b>, etc
 - Building Python-based Servers Using <b>FastAPI</b>, <b>SQL Alchemy</b>, etc.
 - Building a reliable infrastructure using <b>eks</b>, <b>ecs</b>, etc.
 
