@@ -9,8 +9,8 @@
 - Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
 
 ## What I'm studying is...
-- <b>Spring</b> based Web Server Construction
-- Building Python-based Servers Using <b>FastAPI</b>, <b>SQL Alchemy</b>, etc.
+- Building <b>Spring</b> based Web Servers
+- Building Python-based Web Servers Using <b>FastAPI</b>, <b>SQL Alchemy</b>, etc.
 - Building a reliable infrastructure using <b>eks</b>, <b>ecs</b>, etc.
 
 ## My award history is...
