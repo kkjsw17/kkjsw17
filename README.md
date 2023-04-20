@@ -8,6 +8,12 @@
 - Bachelor of Science in Computer Science and Engineering, Konkuk University
 - Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
 
+<br />
+<div align="center">
+  <a href="https://www.linkedin.com/in/%EA%B8%B0%EC%A4%80-%EA%B6%8C-818122256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+<br />
+
 ## What I'm studying is...
 - Building <b>Spring</b> based Web Servers
 - Building Python-based Web Servers Using <b>FastAPI</b>, <b>SQL Alchemy</b>, etc.
