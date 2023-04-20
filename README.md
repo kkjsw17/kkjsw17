@@ -10,7 +10,7 @@
 
 <br />
 <div align="center">
-  <a href="https://www.linkedin.com/in/%EA%B8%B0%EC%A4%80-%EA%B6%8C-818122256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%EA%B8%B0%EC%A4%80-%EA%B6%8C-818122256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 <br />
 
