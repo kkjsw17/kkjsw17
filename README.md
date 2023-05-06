@@ -38,7 +38,8 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;신조어 번역 서비스 별다줄 with <a href="https://github.com/janghoosa" target="_blank">Taejun Jang</a>
 
 ## If you want to contact me...
-- <a href="mailto:uikon798@gmail.com">Gmail</a>
+- <a href="mailto:uikon798@gmail.com">Gmail (Personal)</a>
+- <a href="mailto:abe.py@tunib.ai">Gmail (Business)</a>
 - <a href="mailto:kkjsw17@naver.com">Naver Mail</a>
 
 <!-- ## You can check my detailed profile here.
