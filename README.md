@@ -15,8 +15,8 @@
 <br />
 
 ## What I'm studying is...
-- Building <b>Spring</b> based Web Servers
-- Building Python-based Web Servers Using <b>FastAPI</b>, <b>SQL Alchemy</b>, etc.
+- Building Web Service with <b>Spring</b>
+- Building Web Service with <b>FastAPI</b>, <b>SQL Alchemy</b>, etc.
 - Building a reliable infrastructure using <b>eks</b>, <b>ecs</b>, etc.
 
 ## My conference history is..
