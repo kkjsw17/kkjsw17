@@ -6,7 +6,7 @@
 
 ## Hi! I'm Kijun Kwon.
 - Bachelor of Science in Computer Science and Engineering, Konkuk University
-- Backend Engineer of <a href="https://tunib.ai" target="_blank">TUNiB</a>
+- Backend Engineer of <a href="https://www.estsoft.ai/" target="_blank">ESTsoft</a>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/%EA%B8%B0%EC%A4%80-%EA%B6%8C-818122256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -39,7 +39,7 @@
 
 ## If you want to contact me...
 - <a href="mailto:uikon798@gmail.com">Gmail (Personal)</a>
-- <a href="mailto:abe.py@tunib.ai">Gmail (Business)</a>
+- <a href="mailto:kkjsw17@estsoft.com">Gmail (Business)</a>
 - <a href="mailto:kkjsw17@naver.com">Naver Mail</a>
 
 <!-- ## You can check my detailed profile here.
