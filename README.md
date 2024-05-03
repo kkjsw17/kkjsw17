@@ -5,8 +5,8 @@
 </div>
 
 ## Hi! I'm Kijun Kwon.
-- Bachelor of Science in Computer Science and Engineering, Konkuk University
 - Backend Engineer of <a href="https://www.estsoft.ai/" target="_blank">ESTsoft</a>
+- Bachelor of Science in Computer Science and Engineering, Konkuk University
 
 <div align="center">
   <a href="https://www.linkedin.com/in/%EA%B8%B0%EC%A4%80-%EA%B6%8C-818122256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,14 +14,19 @@
 </div>
 <br />
 
-## What I'm studying is...
-- Building Web Service with <b>Spring</b>
-- Building Web Service with <b>FastAPI</b>, <b>SQL Alchemy</b>, etc.
-- Building a reliable infrastructure using <b>eks</b>, <b>ecs</b>, etc.
+## My organization history is..
+- **SIPE** (2024.03 ~ 2024.07)
+  - 현직 개발자들이 함께 경험을 쌓으며 성장하는 IT 커뮤니티
+- **글또** (2023.11 ~ 2024.05)
+  - 글 쓰는 개발자 모임
+- **DDD** (2023.11 ~ 2024.03)
+  - 직장인 개발자와 디자이너가 함께 성장하는 IT동아리
 
 ## My conference history is..
-🎉 **Samsung Software Developer Conference 2022**
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사람 vs. AI: 바둑, 스타크래프트, 번역… 그럼 N행시는 어떨까? AI N행시 개발기 (Day 1, Track 2)
+🎉 **SIPE Conference - 두 번째 사담콘 (2024)**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;깨진 틈이 있어야 그 사이로 빛이 들어온다
+<br/><br/>🎉 **Samsung Software Developer Conference 2022**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사람 vs. AI: 바둑, 스타크래프트, 번역… 그럼 N행시는 어떨까? AI N행시 개발기
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ [**발표 자료 및 세션 소개 링크**](https://www.ssdc.kr/sessions/detail/58) / 🎥 [**발표 다시 보기**](https://www.youtube.com/watch?v=IM-mwWMpkRM&list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8&index=23)
 <br/><br/>🎉 **한국정보처리학회 ACK 2022**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAS: BART와 WebRTC 라이브러리를 이용한 실시간 회의 스크립트화 및 요약 서비스
