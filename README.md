@@ -14,7 +14,7 @@
 </div>
 <br />
 
-## My organization history is..
+## Organization history
 - **SIPE** (2024.03 ~ 2024.07)
   - 현직 개발자들이 함께 경험을 쌓으며 성장하는 IT 커뮤니티
 - **글또** (2023.11 ~ 2024.05)
@@ -22,7 +22,7 @@
 - **DDD** (2023.11 ~ 2024.03)
   - 직장인 개발자와 디자이너가 함께 성장하는 IT동아리
 
-## My conference history is..
+## Conference history
 🎉 **SIPE Conference - 두 번째 사담콘 (2024)**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;깨진 틈이 있어야 그 사이로 빛이 들어온다
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ [**발표 후기 포스트**](https://kkjsw17.tistory.com/13)
@@ -33,7 +33,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAS: BART와 WebRTC 라이브러리를 이용한 실시간 회의 스크립트화 및 요약 서비스
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ [**논문 링크**](http://manuscriptlink-society-file.s3.amazonaws.com/kips/conference/ack2022/presentation/KIPS_C2022B0393.pdf) / 🎥 [**발표 다시 보기**](https://youtu.be/Y_qXKie6iH0?list=PLfvzYlqPEumNURdPTw0zSLhXNcLtYxQLU&t=1496) (24:56 ~ 38:30)
 
-## My award history is...
+## Award history
 🥇 **2022 인공지능 온라인 경진대회 자연어처리 부문 최우수상** (**과학기술정보통신부장관상**) - <a href="https://www.youtube.com/watch?v=jYmUxs4vfKs">인터뷰 영상</a>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 TUNiB - 문서 검색 효율화를 위한 기계독해 문제 1위
 <br/><br/>🥇 **KT GenieLabs Dev-Challenge 2022 1위**
@@ -43,7 +43,7 @@
 <br/><br/>🥈 **2022 건국대학교 공과대학 동아리 비빔밥 해커톤 <빔커톤> 최우수상**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;신조어 번역 서비스 별다줄 with <a href="https://github.com/janghoosa" target="_blank">Taejun Jang</a>
 
-## If you want to contact me...
+## Contact
 - <a href="mailto:uikon798@gmail.com">Gmail (Personal)</a>
 - <a href="mailto:kkjsw17@estsoft.com">Gmail (Business)</a>
 - <a href="mailto:kkjsw17@naver.com">Naver Mail</a>
