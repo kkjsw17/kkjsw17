@@ -25,7 +25,7 @@
 ## Conference history
 🎉 **SIPE Conference - 두 번째 사담콘 (2024)**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;깨진 틈이 있어야 그 사이로 빛이 들어온다
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ [**발표 후기 포스트**](https://kkjsw17.tistory.com/13)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ [**발표 후기 포스트**](https://kkjsw17.tistory.com/13) / 🎥 [**발표 다시 보기**](https://youtu.be/K4slTMEKHLo?si=IolnnAWiOlbllcMA)
 <br/><br/>🎉 **Samsung Software Developer Conference 2022**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사람 vs. AI: 바둑, 스타크래프트, 번역… 그럼 N행시는 어떨까? AI N행시 개발기
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ [**발표 자료 및 세션 소개 링크**](https://www.ssdc.kr/sessions/detail/58) / 🎥 [**발표 다시 보기**](https://www.youtube.com/watch?v=IM-mwWMpkRM&list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8&index=23)
