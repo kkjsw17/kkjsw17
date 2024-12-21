@@ -14,6 +14,14 @@
 </div>
 <br />
 
+## Work history
+- [**Toss Place**](https://tossplace.com/)
+  - Server Developer (2025.01 ~ )
+- [ESTsoft](https://estsoft.ai/)
+  - Backend Engineer (2023.08 ~ 2024.12)
+- [TUNiB](https://tunib.ai/)
+  - AI Engineer (2022.05 ~ 2023.08)
+
 ## Organization history
 - **디프만 15기** (2024.06 ~ 2024.09)
   - 디자이너와 개발자가 서비스 기획부터 런칭까지 함께 경험하는 성장추구형 커뮤니티
