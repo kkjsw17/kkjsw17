@@ -5,7 +5,7 @@
 </div>
 
 ## Hi! I'm Kijun Kwon.
-- Backend Engineer of <a href="https://www.estsoft.ai/" target="_blank">ESTsoft</a>
+- Backend Engineer of [Toss Place](https://tossplace.com/)
 - Bachelor of Science in Computer Science and Engineering, Konkuk University
 
 <div align="center">
@@ -15,7 +15,7 @@
 <br />
 
 ## Work history
-- [**Toss Place**](https://tossplace.com/)
+- [Toss Place](https://tossplace.com/)
   - Server Developer (2025.01 ~ )
 - [ESTsoft](https://estsoft.ai/)
   - Backend Engineer (2023.08 ~ 2024.12)
