@@ -23,7 +23,7 @@
   - AI Engineer (2022.05 ~ 2023.08)
 
 ## Organization history
-- **디프만 15기** (2024.06 ~ 2024.09)
+- **디프만 15기, 16기** (2024.06 ~ )
   - 디자이너와 개발자가 서비스 기획부터 런칭까지 함께 경험하는 성장추구형 커뮤니티
 - **SIPE 2기** (2024.03 ~ 2024.07)
   - 현직 개발자들이 함께 경험을 쌓으며 성장하는 IT 커뮤니티
@@ -50,8 +50,6 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;과제1 (초거대 T5 모델 기반 개체명 인식 파인 튜닝) with <a href="https://github.com/junseo-jang" target="_blank">Junseo Jang</a>, <a href="https://github.com/reesony" target="_blank">Sungyoon Lee</a>
 <br/><br/>🥉 **SW중심대학 공동해커톤 2022 특별상** - <a href="http://www.konkuk.ac.kr/do/MessageBoard/ArticleRead.do?forum=people&s_f=subject&s_v=SW&sort=6&id=5b4cbcc">관련 기사</a> / <a href="https://www.youtube.com/watch?v=af_FYzTVxcQ">관련 영상</a>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;팀 법법디라라 - 법률 상담 챗봇 로캣(LawCat)
-<br/><br/>🥈 **2022 건국대학교 공과대학 동아리 비빔밥 해커톤 <빔커톤> 최우수상**
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;신조어 번역 서비스 별다줄 with <a href="https://github.com/janghoosa" target="_blank">Taejun Jang</a>
 
 ## Contact
 - <a href="mailto:uikon798@gmail.com">Gmail (Personal)</a>
